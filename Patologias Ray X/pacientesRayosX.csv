@@ -1,0 +1,50 @@
+imagen,patologia,NumeroConsulta,IdPaciente,EdadPaciente,GeneroPaciente
+RayosX00013_005.png,Emphysema|Infiltration|Pleural_Thickening|Pneumothorax,5,13,60,M
+RayosX00013_026.png,Cardiomegaly|Emphysema,26,13,57,M
+RayosX00017_001.png,No Finding,1,17,77,M
+RayosX00030_001.png,Atelectasis,1,30,79,M
+RayosX00032_001.png,Cardiomegaly|Edema|Effusion,1,32,55,F
+RayosX00040_003.png,Consolidation|Mass,3,40,68,M
+RayosX00042_002.png,No Finding,2,42,71,M
+RayosX00057_001.png,No Finding,1,57,71,M
+RayosX00061_002.png,Effusion,2,61,77,M
+RayosX00061_019.png,No Finding,19,61,77,M
+RayosX00061_025.png,Consolidation|Effusion|Infiltration|Nodule,25,61,77,M
+RayosX00079_000.png,Mass,0,79,63,M
+RayosX00080_005.png,No Finding,5,80,67,F
+RayosX00083_000.png,No Finding,0,83,56,F
+RayosX00084_000.png,Effusion,0,84,57,F
+RayosX00096_006.png,Effusion,6,96,67,F
+RayosX00099_003.png,Effusion,3,99,56,F
+RayosX00099_006.png,No Finding,6,99,58,F
+RayosX00103_001.png,Mass|Pneumothorax,1,103,60,M
+RayosX00116_013.png,Cardiomegaly|Consolidation,13,116,75,F
+RayosX00116_019.png,Consolidation,19,116,75,F
+RayosX00116_032.png,Cardiomegaly|Consolidation,32,116,75,F
+RayosX00116_040.png,Cardiomegaly|Consolidation,40,116,75,F
+RayosX00118_011.png,Pneumothorax,11,118,73,M
+RayosX00121_004.png,No Finding,4,121,54,M
+RayosX00127_007.png,Effusion,7,127,56,F
+RayosX00132_002.png,Consolidation|Pleural_Thickening,2,132,60,F
+RayosX00154_001.png,Infiltration|Nodule,1,154,56,F
+RayosX00165_008.png,No Finding,8,165,78,M
+RayosX00175_001.png,Atelectasis,1,175,60,M
+RayosX00175_002.png,Atelectasis,2,175,60,M
+RayosX00181_001.png,Fibrosis,1,181,47,F
+RayosX00181_017.png,Infiltration,17,181,50,F
+RayosX00181_035.png,Infiltration,35,181,50,F
+RayosX00188_001.png,No Finding,1,188,45,M
+RayosX00194_004.png,No Finding,4,194,84,F
+RayosX00206_000.png,No Finding,0,206,30,M
+RayosX00231_005.png,No Finding,5,231,56,F
+RayosX00232_000.png,Fibrosis,0,232,45,M
+RayosX00239_003.png,No Finding,3,239,49,F
+RayosX00242_000.png,Consolidation,0,242,61,F
+RayosX00243_001.png,Emphysema,1,243,69,M
+RayosX00246_003.png,No Finding,3,246,51,M
+RayosX00246_004.png,No Finding,4,246,51,M
+RayosX00246_011.png,Infiltration,11,246,51,M
+RayosX00246_016.png,Consolidation|Mass,16,246,51,M
+RayosX00246_018.png,No Finding,18,246,44,M
+RayosX00248_020.png,Atelectasis|Infiltration|Mass|Pleural_Thickening,20,248,87,M
+RayosX00250_005.png,Infiltration,5,250,50,M
